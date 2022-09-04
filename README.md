@@ -15,3 +15,5 @@
 
 5. Process referencing: Upon starting, a process will connect to the hub and register sending: owner alias, process
    index, process host, process listening port (see ProcRegistration). The hub address and port will be configured manually.
+
+![Architecture](https://github.com/pitpalac36/Distributed-Systems/blob/main/structure.png?raw=true)
