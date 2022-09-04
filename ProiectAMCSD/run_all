@@ -1,0 +1,3 @@
+dotnet run abc 5005 1 &
+dotnet run abc 5006 2 &
+dotnet run abc 5007 3

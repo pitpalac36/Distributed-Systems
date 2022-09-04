@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProiectAMCSD": {
+      "commandName": "Project",
+      "commandLineArgs": "abc 5005 1"
+    }
+  }
+}
